@@ -4,9 +4,9 @@ Training and testing a DCGAN for handwritten digit image generation on PyTorch a
 ## Setup
 Activate the Python3 virtual environment:
 
-'''bash
+```bash
 
 chmod +x setup.sh
 ./setup.sh
 
-'''
+```
