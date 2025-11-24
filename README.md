@@ -6,6 +6,7 @@ Activate the Python3 virtual environment:
 
 '''bash
 
-source .venv/bin/activate
+chmod +x setup.sh
+./setup.sh
 
 '''
