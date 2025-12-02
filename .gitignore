@@ -1,2 +1,6 @@
 # Python virtual environment
 .venv/
+
+# Kaggle/Torchvision datasets (can be downloaded again)
+data/
+checkpoints/
